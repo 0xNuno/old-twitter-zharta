@@ -1,6 +1,8 @@
 ## About
 
-Don't like the Twitter rebrand to x.com? Neither did Cygar and Me, so I've update his model into a good branding for twitter!
+Don't like the Twitter rebrand to x.com? Neither did [Cygar](https://twitter.com/0xCygaar), neither me!
+
+So I've update his model into a proper value accruing logo!
 
 
 ## Installation
