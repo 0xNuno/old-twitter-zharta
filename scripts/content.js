@@ -33,7 +33,7 @@ waitForElement('[aria-label="Twitter"]').then((elm) => {
   container.innerHTML = "";
 
   const twitterIcon = document.createElement("img");
-  twitterIcon.src = chrome.runtime.getURL("../assets/twitter.png");
+  twitterIcon.src = chrome.runtime.getURL("../assets/zhartaLogo.png");
   twitterIcon.width = 42;
   twitterIcon.height = 42;
   container.appendChild(twitterIcon);
